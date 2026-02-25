@@ -18,5 +18,5 @@
 ---
 
 ## 📫 Connect With Me
-LinkedIn: (Your link)
-Email: (Your email)
+LinkedIn: https://www.linkedin.com/in/prince-kumar-37371233a/
+Email: princebhumihar00@gmail.com
