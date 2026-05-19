@@ -10,9 +10,6 @@
 - Java Script
 - React
 - Node
-- Python
-- Django
-- SQL
 - Git & GitHub
 
 ---
